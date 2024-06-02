@@ -47,16 +47,9 @@ This is a simple voice chat application that allows users to create their own vo
 
 ## Usage
 
-### Creating a Server
-
-1. Click on the "Create Server" button.
-2. The server address will be displayed. Share this address with others who want to join your voice chat.
-
 ### Joining a Server
 
-1. Enter the server address provided by the server creator in the input field.
-2. Click the "Join Server" button.
-3. Click the "Start Chat" button to start the voice chat.
+1. Click the "Start Chat" button to start the voice chat.
 
 ### Leaving the Chat
 
@@ -73,3 +66,37 @@ voice-chat-app/
 ├── server.js
 ├── package.json
 └── package-lock.json
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at psychodev@quebitml.com
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Support
+
+For support, email psychodev@quebitml.com or join our Discord Server 🔥
+
+
+## Licenses
+
+Licenses for this website
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://psychodev.quebitml.com)
+[![linkedin](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YsvByDYFTA)
+
