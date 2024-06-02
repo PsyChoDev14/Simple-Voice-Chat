@@ -1,20 +1,20 @@
 # Voice Chat Application 🟢
 
-This is a simple voice chat application that allows users to create their own voice chat servers and connect to each other using their IP addresses. The application features a sound bar that displays the microphone's input levels in real time. 
+This is a simple voice chat application that allows users to create their own voice chat servers and connect to each other using their IP addresses. The application features a sound bar that displays the microphone's input levels in real time. 🔥
 
 ## Features
 
-- Create your own voice chat server. (upcoming)
-- Join a voice chat server using an IP address. (upcoming)
-- Real-time display of microphone input levels using a sound bar.
-- Good for low end pc users to communicate with their friends while playing games or doing other activities 
+- Create your own voice chat server. (upcoming) 🔥
+- Join a voice chat server using an IP address. (upcoming) 🟢
+- Real-time display of microphone input levels using a sound bar. 🌸
+- Good for low end pc users to communicate with their friends while playing games or doing other activities 🤙
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript for the frontend
-- Node.js, Express, Socket.io for the backend
-- WebRTC for real-time communication
-- Web Audio API for audio input analysis
+- HTML, CSS, JavaScript for the frontend 🌸
+- Node.js, Express, Socket.io for the backend 🟢
+- WebRTC for real-time communication 🤙
+- Web Audio API for audio input analysis 💢
 
 ## Setup and Installation
 
